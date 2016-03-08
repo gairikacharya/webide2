@@ -1,0 +1,72 @@
+<!--
+
+    Copyright (C) 2009-2014 SAP SE or an SAP affiliate company. All rights reserved
+
+-->
+<core:View controllerName="cus.sd.salesorder.create.view.S2" xmlns:core="sap.ui.core" xmlns="sap.m" xmlns:c="sap.suite.ui.commons">
+	<Page class="sapUiFioriObjectPage">
+		<customHeader>
+			<Bar>
+				<contentMiddle>
+					<Label id="SOC_MasterListHeaderTitle" textAlign="Center"></Label>
+				</contentMiddle>
+				<contentRight>
+					<Button icon="sap-icon://customer" id="changeCustomerButton" tap="changeInCustomerContext"/>
+				</contentRight>
+			</Bar>
+		</customHeader>
+		<content>
+	    
+		   <Label text="Credit Limit" design="Bold"></Label>
+		   <ProgressIndicator id = "gr0"
+				class="sapUiSmallMarginBottom" 
+				percentValue="{attrib>/0/percentValue}"
+				displayValue="{customer_data_json>/results/0/KLIMK}"
+				showValue="true"
+				state="{attrib>/0/state}"
+				height="1.5rem"/>
+		   <Label text="Credit Limit Used" design="Bold"></Label>
+		   <ProgressIndicator id = "gr1"
+				class="sapUiSmallMarginBottom" 
+				percentValue="{attrib>/1/percentValue}"
+				displayValue="{customer_data_json>/results/0/CREDIT_USED}"
+				showValue="true"
+				state="{attrib>/1/state}"
+				height="1.5rem"/>
+		   	<Label text="Open AR Balance" design="Bold"></Label>
+			<ProgressIndicator id = "gr2"
+				class="sapUiSmallMarginBottom" 
+				percentValue="{attrib>/2/percentValue}"
+				displayValue="{customer_data_json>/results/0/SKFOR}"
+				showValue="true"
+				state="{attrib>/2/state}"
+				height="1.5rem"/>
+		    <Label text="Open Delivery Value" design="Bold"></Label>
+			<ProgressIndicator id = "gr3"
+				class="sapUiSmallMarginBottom" 
+				percentValue="{attrib>/3/percentValue}"
+				displayValue="{customer_data_json>/results/0/OLIKW}"
+				showValue="true"
+				state="{attrib>/3/state}"
+				height="1.5rem"/>
+		    <Label text=" Open Sales Order Value" design="Bold"></Label>
+			<ProgressIndicator id = "gr4"
+				class="sapUiSmallMarginBottom" 
+				percentValue="{attrib>/4/percentValue}"
+				displayValue="{customer_data_json>/results/0/OEIKW}"
+				showValue="true"
+				state="{attrib>/4/state}"
+				height="1.5rem"/>
+		
+			<SegmentedButton id="selectToggleOrders" selectedButton="ORDERS_ID" width="100%">
+				<buttons>
+					<Button id="ORDERS_ID" press="onNavToSalesOrders" text="{i18n>ORDERS}" width="50%"></Button>
+					<Button id="PRODUCTS" press="onNavToProducts" text="{i18n>PRODUCTS}" width="50%"></Button>
+				</buttons>
+			</SegmentedButton>
+			
+			<List growing="true" growingScrollToLoad="true" growingThreshold="30" id="list" mode="{device>/listMode}" select="_handleSelect"></List>
+		    
+		</content>
+	</Page>
+</core:View>
