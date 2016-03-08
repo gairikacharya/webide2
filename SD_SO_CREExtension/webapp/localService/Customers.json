@@ -1,0 +1,321 @@
+[{
+	"ShipToAccountNo": "ShipToAccountNo 1",
+	"ShipToIncoTerms": "ShipToIncoTerms 1",
+	"ShipToInstructions": "ShipToInstructions 1",
+	"CityZip": "CityZip 1",
+	"ShipToReceiverNotes": "ShipToReceiverNotes 1",
+	"City": "City 1",
+	"PostalCode": "PostalCode 1",
+	"Currency": "Currency 1",
+	"SalesOrganizationName": "SalesOrganizationName 1",
+	"DistributionChannelName": "DistributionChannelName 1",
+	"DivisionName": "DivisionName 1",
+	"CustomerID": "CustomerID 1",
+	"CustomerName": "CustomerName 1",
+	"SalesOrganization": "SalesOrganization 1",
+	"DistributionChannel": "DistributionChannel 1",
+	"Division": "Division 1",
+	"ShipToCarrier": "ShipToCarrier 1",
+	"__metadata": {
+		"uri": "Customers(CustomerID='CustomerID 1',SalesOrganization='SalesOrganization 1',DistributionChannel='DistributionChannel 1',Division='Division 1')",
+		"type": "sra017_salesorder_create_srv.Customer"
+	},
+	"PartnerAddressSet": {
+		"__deferred": {
+			"uri": "Customers(CustomerID='CustomerID 1',SalesOrganization='SalesOrganization 1',DistributionChannel='DistributionChannel 1',Division='Division 1')/PartnerAddressSet"
+		}
+	},
+	"SalesOrderSet": {
+		"__deferred": {
+			"uri": "Customers(CustomerID='CustomerID 1',SalesOrganization='SalesOrganization 1',DistributionChannel='DistributionChannel 1',Division='Division 1')/SalesOrderSet"
+		}
+	}
+}, {
+	"ShipToAccountNo": "ShipToAccountNo 2",
+	"ShipToIncoTerms": "ShipToIncoTerms 2",
+	"ShipToInstructions": "ShipToInstructions 2",
+	"CityZip": "CityZip 2",
+	"ShipToReceiverNotes": "ShipToReceiverNotes 2",
+	"City": "City 2",
+	"PostalCode": "PostalCode 2",
+	"Currency": "Currency 2",
+	"SalesOrganizationName": "SalesOrganizationName 2",
+	"DistributionChannelName": "DistributionChannelName 2",
+	"DivisionName": "DivisionName 2",
+	"CustomerID": "CustomerID 2",
+	"CustomerName": "CustomerName 2",
+	"SalesOrganization": "SalesOrganization 2",
+	"DistributionChannel": "DistributionChannel 2",
+	"Division": "Division 2",
+	"ShipToCarrier": "ShipToCarrier 2",
+	"__metadata": {
+		"uri": "Customers(CustomerID='CustomerID 2',SalesOrganization='SalesOrganization 2',DistributionChannel='DistributionChannel 2',Division='Division 2')",
+		"type": "sra017_salesorder_create_srv.Customer"
+	},
+	"PartnerAddressSet": {
+		"__deferred": {
+			"uri": "Customers(CustomerID='CustomerID 2',SalesOrganization='SalesOrganization 2',DistributionChannel='DistributionChannel 2',Division='Division 2')/PartnerAddressSet"
+		}
+	},
+	"SalesOrderSet": {
+		"__deferred": {
+			"uri": "Customers(CustomerID='CustomerID 2',SalesOrganization='SalesOrganization 2',DistributionChannel='DistributionChannel 2',Division='Division 2')/SalesOrderSet"
+		}
+	}
+}, {
+	"ShipToAccountNo": "ShipToAccountNo 3",
+	"ShipToIncoTerms": "ShipToIncoTerms 3",
+	"ShipToInstructions": "ShipToInstructions 3",
+	"CityZip": "CityZip 3",
+	"ShipToReceiverNotes": "ShipToReceiverNotes 3",
+	"City": "City 3",
+	"PostalCode": "PostalCode 3",
+	"Currency": "Currency 3",
+	"SalesOrganizationName": "SalesOrganizationName 3",
+	"DistributionChannelName": "DistributionChannelName 3",
+	"DivisionName": "DivisionName 3",
+	"CustomerID": "CustomerID 3",
+	"CustomerName": "CustomerName 3",
+	"SalesOrganization": "SalesOrganization 3",
+	"DistributionChannel": "DistributionChannel 3",
+	"Division": "Division 3",
+	"ShipToCarrier": "ShipToCarrier 3",
+	"__metadata": {
+		"uri": "Customers(CustomerID='CustomerID 3',SalesOrganization='SalesOrganization 3',DistributionChannel='DistributionChannel 3',Division='Division 3')",
+		"type": "sra017_salesorder_create_srv.Customer"
+	},
+	"PartnerAddressSet": {
+		"__deferred": {
+			"uri": "Customers(CustomerID='CustomerID 3',SalesOrganization='SalesOrganization 3',DistributionChannel='DistributionChannel 3',Division='Division 3')/PartnerAddressSet"
+		}
+	},
+	"SalesOrderSet": {
+		"__deferred": {
+			"uri": "Customers(CustomerID='CustomerID 3',SalesOrganization='SalesOrganization 3',DistributionChannel='DistributionChannel 3',Division='Division 3')/SalesOrderSet"
+		}
+	}
+}, {
+	"ShipToAccountNo": "ShipToAccountNo 4",
+	"ShipToIncoTerms": "ShipToIncoTerms 4",
+	"ShipToInstructions": "ShipToInstructions 4",
+	"CityZip": "CityZip 4",
+	"ShipToReceiverNotes": "ShipToReceiverNotes 4",
+	"City": "City 4",
+	"PostalCode": "PostalCode 4",
+	"Currency": "Currency 4",
+	"SalesOrganizationName": "SalesOrganizationName 4",
+	"DistributionChannelName": "DistributionChannelName 4",
+	"DivisionName": "DivisionName 4",
+	"CustomerID": "CustomerID 4",
+	"CustomerName": "CustomerName 4",
+	"SalesOrganization": "SalesOrganization 4",
+	"DistributionChannel": "DistributionChannel 4",
+	"Division": "Division 4",
+	"ShipToCarrier": "ShipToCarrier 4",
+	"__metadata": {
+		"uri": "Customers(CustomerID='CustomerID 4',SalesOrganization='SalesOrganization 4',DistributionChannel='DistributionChannel 4',Division='Division 4')",
+		"type": "sra017_salesorder_create_srv.Customer"
+	},
+	"PartnerAddressSet": {
+		"__deferred": {
+			"uri": "Customers(CustomerID='CustomerID 4',SalesOrganization='SalesOrganization 4',DistributionChannel='DistributionChannel 4',Division='Division 4')/PartnerAddressSet"
+		}
+	},
+	"SalesOrderSet": {
+		"__deferred": {
+			"uri": "Customers(CustomerID='CustomerID 4',SalesOrganization='SalesOrganization 4',DistributionChannel='DistributionChannel 4',Division='Division 4')/SalesOrderSet"
+		}
+	}
+}, {
+	"ShipToAccountNo": "ShipToAccountNo 5",
+	"ShipToIncoTerms": "ShipToIncoTerms 5",
+	"ShipToInstructions": "ShipToInstructions 5",
+	"CityZip": "CityZip 5",
+	"ShipToReceiverNotes": "ShipToReceiverNotes 5",
+	"City": "City 5",
+	"PostalCode": "PostalCode 5",
+	"Currency": "Currency 5",
+	"SalesOrganizationName": "SalesOrganizationName 5",
+	"DistributionChannelName": "DistributionChannelName 5",
+	"DivisionName": "DivisionName 5",
+	"CustomerID": "CustomerID 5",
+	"CustomerName": "CustomerName 5",
+	"SalesOrganization": "SalesOrganization 5",
+	"DistributionChannel": "DistributionChannel 5",
+	"Division": "Division 5",
+	"ShipToCarrier": "ShipToCarrier 5",
+	"__metadata": {
+		"uri": "Customers(CustomerID='CustomerID 5',SalesOrganization='SalesOrganization 5',DistributionChannel='DistributionChannel 5',Division='Division 5')",
+		"type": "sra017_salesorder_create_srv.Customer"
+	},
+	"PartnerAddressSet": {
+		"__deferred": {
+			"uri": "Customers(CustomerID='CustomerID 5',SalesOrganization='SalesOrganization 5',DistributionChannel='DistributionChannel 5',Division='Division 5')/PartnerAddressSet"
+		}
+	},
+	"SalesOrderSet": {
+		"__deferred": {
+			"uri": "Customers(CustomerID='CustomerID 5',SalesOrganization='SalesOrganization 5',DistributionChannel='DistributionChannel 5',Division='Division 5')/SalesOrderSet"
+		}
+	}
+}, {
+	"ShipToAccountNo": "ShipToAccountNo 6",
+	"ShipToIncoTerms": "ShipToIncoTerms 6",
+	"ShipToInstructions": "ShipToInstructions 6",
+	"CityZip": "CityZip 6",
+	"ShipToReceiverNotes": "ShipToReceiverNotes 6",
+	"City": "City 6",
+	"PostalCode": "PostalCode 6",
+	"Currency": "Currency 6",
+	"SalesOrganizationName": "SalesOrganizationName 6",
+	"DistributionChannelName": "DistributionChannelName 6",
+	"DivisionName": "DivisionName 6",
+	"CustomerID": "CustomerID 6",
+	"CustomerName": "CustomerName 6",
+	"SalesOrganization": "SalesOrganization 6",
+	"DistributionChannel": "DistributionChannel 6",
+	"Division": "Division 6",
+	"ShipToCarrier": "ShipToCarrier 6",
+	"__metadata": {
+		"uri": "Customers(CustomerID='CustomerID 6',SalesOrganization='SalesOrganization 6',DistributionChannel='DistributionChannel 6',Division='Division 6')",
+		"type": "sra017_salesorder_create_srv.Customer"
+	},
+	"PartnerAddressSet": {
+		"__deferred": {
+			"uri": "Customers(CustomerID='CustomerID 6',SalesOrganization='SalesOrganization 6',DistributionChannel='DistributionChannel 6',Division='Division 6')/PartnerAddressSet"
+		}
+	},
+	"SalesOrderSet": {
+		"__deferred": {
+			"uri": "Customers(CustomerID='CustomerID 6',SalesOrganization='SalesOrganization 6',DistributionChannel='DistributionChannel 6',Division='Division 6')/SalesOrderSet"
+		}
+	}
+}, {
+	"ShipToAccountNo": "ShipToAccountNo 7",
+	"ShipToIncoTerms": "ShipToIncoTerms 7",
+	"ShipToInstructions": "ShipToInstructions 7",
+	"CityZip": "CityZip 7",
+	"ShipToReceiverNotes": "ShipToReceiverNotes 7",
+	"City": "City 7",
+	"PostalCode": "PostalCode 7",
+	"Currency": "Currency 7",
+	"SalesOrganizationName": "SalesOrganizationName 7",
+	"DistributionChannelName": "DistributionChannelName 7",
+	"DivisionName": "DivisionName 7",
+	"CustomerID": "CustomerID 7",
+	"CustomerName": "CustomerName 7",
+	"SalesOrganization": "SalesOrganization 7",
+	"DistributionChannel": "DistributionChannel 7",
+	"Division": "Division 7",
+	"ShipToCarrier": "ShipToCarrier 7",
+	"__metadata": {
+		"uri": "Customers(CustomerID='CustomerID 7',SalesOrganization='SalesOrganization 7',DistributionChannel='DistributionChannel 7',Division='Division 7')",
+		"type": "sra017_salesorder_create_srv.Customer"
+	},
+	"PartnerAddressSet": {
+		"__deferred": {
+			"uri": "Customers(CustomerID='CustomerID 7',SalesOrganization='SalesOrganization 7',DistributionChannel='DistributionChannel 7',Division='Division 7')/PartnerAddressSet"
+		}
+	},
+	"SalesOrderSet": {
+		"__deferred": {
+			"uri": "Customers(CustomerID='CustomerID 7',SalesOrganization='SalesOrganization 7',DistributionChannel='DistributionChannel 7',Division='Division 7')/SalesOrderSet"
+		}
+	}
+}, {
+	"ShipToAccountNo": "ShipToAccountNo 8",
+	"ShipToIncoTerms": "ShipToIncoTerms 8",
+	"ShipToInstructions": "ShipToInstructions 8",
+	"CityZip": "CityZip 8",
+	"ShipToReceiverNotes": "ShipToReceiverNotes 8",
+	"City": "City 8",
+	"PostalCode": "PostalCode 8",
+	"Currency": "Currency 8",
+	"SalesOrganizationName": "SalesOrganizationName 8",
+	"DistributionChannelName": "DistributionChannelName 8",
+	"DivisionName": "DivisionName 8",
+	"CustomerID": "CustomerID 8",
+	"CustomerName": "CustomerName 8",
+	"SalesOrganization": "SalesOrganization 8",
+	"DistributionChannel": "DistributionChannel 8",
+	"Division": "Division 8",
+	"ShipToCarrier": "ShipToCarrier 8",
+	"__metadata": {
+		"uri": "Customers(CustomerID='CustomerID 8',SalesOrganization='SalesOrganization 8',DistributionChannel='DistributionChannel 8',Division='Division 8')",
+		"type": "sra017_salesorder_create_srv.Customer"
+	},
+	"PartnerAddressSet": {
+		"__deferred": {
+			"uri": "Customers(CustomerID='CustomerID 8',SalesOrganization='SalesOrganization 8',DistributionChannel='DistributionChannel 8',Division='Division 8')/PartnerAddressSet"
+		}
+	},
+	"SalesOrderSet": {
+		"__deferred": {
+			"uri": "Customers(CustomerID='CustomerID 8',SalesOrganization='SalesOrganization 8',DistributionChannel='DistributionChannel 8',Division='Division 8')/SalesOrderSet"
+		}
+	}
+}, {
+	"ShipToAccountNo": "ShipToAccountNo 9",
+	"ShipToIncoTerms": "ShipToIncoTerms 9",
+	"ShipToInstructions": "ShipToInstructions 9",
+	"CityZip": "CityZip 9",
+	"ShipToReceiverNotes": "ShipToReceiverNotes 9",
+	"City": "City 9",
+	"PostalCode": "PostalCode 9",
+	"Currency": "Currency 9",
+	"SalesOrganizationName": "SalesOrganizationName 9",
+	"DistributionChannelName": "DistributionChannelName 9",
+	"DivisionName": "DivisionName 9",
+	"CustomerID": "CustomerID 9",
+	"CustomerName": "CustomerName 9",
+	"SalesOrganization": "SalesOrganization 9",
+	"DistributionChannel": "DistributionChannel 9",
+	"Division": "Division 9",
+	"ShipToCarrier": "ShipToCarrier 9",
+	"__metadata": {
+		"uri": "Customers(CustomerID='CustomerID 9',SalesOrganization='SalesOrganization 9',DistributionChannel='DistributionChannel 9',Division='Division 9')",
+		"type": "sra017_salesorder_create_srv.Customer"
+	},
+	"PartnerAddressSet": {
+		"__deferred": {
+			"uri": "Customers(CustomerID='CustomerID 9',SalesOrganization='SalesOrganization 9',DistributionChannel='DistributionChannel 9',Division='Division 9')/PartnerAddressSet"
+		}
+	},
+	"SalesOrderSet": {
+		"__deferred": {
+			"uri": "Customers(CustomerID='CustomerID 9',SalesOrganization='SalesOrganization 9',DistributionChannel='DistributionChannel 9',Division='Division 9')/SalesOrderSet"
+		}
+	}
+}, {
+	"ShipToAccountNo": "ShipToAccountNo 10",
+	"ShipToIncoTerms": "ShipToIncoTerms 10",
+	"ShipToInstructions": "ShipToInstructions 10",
+	"CityZip": "CityZip 10",
+	"ShipToReceiverNotes": "ShipToReceiverNotes 10",
+	"City": "City 10",
+	"PostalCode": "PostalCode 10",
+	"Currency": "Currency 10",
+	"SalesOrganizationName": "SalesOrganizationName 10",
+	"DistributionChannelName": "DistributionChannelName 10",
+	"DivisionName": "DivisionName 10",
+	"CustomerID": "CustomerID 10",
+	"CustomerName": "CustomerName 10",
+	"SalesOrganization": "SalesOrganization 10",
+	"DistributionChannel": "DistributionChannel 10",
+	"Division": "Division 10",
+	"ShipToCarrier": "ShipToCarrier 10",
+	"__metadata": {
+		"uri": "Customers(CustomerID='CustomerID 10',SalesOrganization='SalesOrganization 10',DistributionChannel='DistributionChannel 10',Division='Division 10')",
+		"type": "sra017_salesorder_create_srv.Customer"
+	},
+	"PartnerAddressSet": {
+		"__deferred": {
+			"uri": "Customers(CustomerID='CustomerID 10',SalesOrganization='SalesOrganization 10',DistributionChannel='DistributionChannel 10',Division='Division 10')/PartnerAddressSet"
+		}
+	},
+	"SalesOrderSet": {
+		"__deferred": {
+			"uri": "Customers(CustomerID='CustomerID 10',SalesOrganization='SalesOrganization 10',DistributionChannel='DistributionChannel 10',Division='Division 10')/SalesOrderSet"
+		}
+	}
+}]
